@@ -9,21 +9,21 @@
             <array>
                 <dict>
                     <key>kind</key>
-                    <string>software-package</string>
+                        <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/spinezhang/ios/master/carspirit.ipa</string>
+                        <string>https://raw.githubusercontent.com/spinezhang/ios/master/carspirit.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.vthinkers.CarSpirit</string>
+                    <string>YKGX829T8K.com.vthinkers.CarSpirit</string>
                 <key>bundle-version</key>
-                <string>0.82</string>
+                    <string>0.82</string>
                 <key>kind</key>
-                <string>software</string>
+                    <string>software</string>
                 <key>title</key>
-                <string>CarSpirit</string>
+                    <string>CarSpirit</string>
             </dict>
         </dict>
     </array>
