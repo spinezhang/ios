@@ -11,7 +11,7 @@
                     <key>kind</key>
                         <string>software-package</string>
                     <key>url</key>
-                        <string>https://raw.githubusercontent.com/spinezhang/ios/master/carspirit.ipa</string>
+                        <string>http://bcs.duapp.com/vthinkers/ios2/carspirit.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                     <string>YKGX829T8K.com.vthinkers.CarSpirit</string>
                 <key>bundle-version</key>
-                    <string>0.98</string>
+                    <string>0.983</string>
                 <key>kind</key>
                     <string>software</string>
                 <key>title</key>
