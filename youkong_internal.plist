@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://letzink.bj.bcebos.com/ios/youkong/YouKongTest.ipa</string>
+                    <string>https://raw.githubusercontent.com/spinezhang/ios/master/YouKongTest.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
