@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://letzink.bj.bcebos.com/ios/youkong/YouKongTest.ipa</string>
+                    <string>http://letzink.bj.bcebos.com/ios/youkong/YouKong.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -19,7 +19,7 @@
                 <key>bundle-identifier</key>
                     <string>com.letzink.YouKong</string>
                 <key>bundle-version</key>
-                <string>0.88</string>
+                <string>0.89</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
