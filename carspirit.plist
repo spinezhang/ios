@@ -9,21 +9,21 @@
             <array>
                 <dict>
                     <key>kind</key>
-                        <string>software-package</string>
+                    <string>software-package</string>
                     <key>url</key>
-                        <string>http://letzink.bj.bcebos.com/ios/vcarso_test/carspirit.ipa?responseContentDisposition=attachment</string>
+                    <string>http://letzink.bj.bcebos.com/ios/vcarso/YouKong.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                    <string>YKGX829T8K.com.vthinkers.CarSpirit</string>
+                    <string>com.letzink.YouKong</string>
                 <key>bundle-version</key>
-                    <string>0.990</string>
+                <string>0.89</string>
                 <key>kind</key>
-                    <string>software</string>
+                <string>software</string>
                 <key>title</key>
-                    <string>CarSpirit</string>
+                <string>YouKong</string>
             </dict>
         </dict>
     </array>
